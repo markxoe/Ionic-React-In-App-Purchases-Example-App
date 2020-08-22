@@ -1,0 +1,7 @@
+{
+  "name": "Level Game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
